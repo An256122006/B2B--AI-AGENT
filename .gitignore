@@ -1,0 +1,17 @@
+.env
+__pycache__/
+**/__pycache__/
+*.pyc
+.vercel/
+data/*.db
+data/agent_memory.json
+data_quarantine/*.json
+exports/*
+.DS_Store
+__MACOSX/
+cloudflared.exe
+
+# Local application state
+database/*.sqlite3
+database/*.sqlite3-*
+btap mo*/
